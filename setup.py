@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="human-friendly-opening-hours",
-    version="0.0.6",
+    version="0.0.7",
     author="Glenn Calleja Frendo",
     author_email="glenncal@gmail.com",
     description="A package used to render opening hours in a human-friendly format",
